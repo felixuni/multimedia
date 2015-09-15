@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="down_string">Down</string>
+    <string name="up_string">Up</string>
+    <string name="play_string">Play</string>
+</resources>
